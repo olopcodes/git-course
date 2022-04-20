@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  color: white;
 }
 
 nav {
@@ -20,8 +21,6 @@ button {
 }
 
 ul {
-  background-color: teal;
-  color: aliceblue;
-  text-transform: uppercase;
-  font-weight: 700;
+  background-color: blueviolet;
+  color: blanchedalmond;
 }
